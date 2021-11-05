@@ -1,0 +1,33 @@
+{
+  "name": "budget_tracker",
+  "version": "1.0.0",
+  "description": "Budget Tracking app that works online and offline.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "lite-server",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexParker82/budget_tracker.git"
+  },
+  "author": "Alex Parker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexParker82/budget_tracker/issues"
+  },
+  "homepage": "https://github.com/AlexParker82/budget_tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "lite-server": "^2.6.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
