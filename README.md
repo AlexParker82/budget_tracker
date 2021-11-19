@@ -1,8 +1,8 @@
 # budget_tracker
 
-![badge](https![Screenshot (31)](https://user-images.githubusercontent.com/82096138/142704605-0e0bbd19-d55c-4300-a921-23dfa1ff726d.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/82096138/142704690-53ad3b78-e663-4e62-ba7a-f907cf942b04.png)
 
-://img.shields.io/badge/License-MIT-yellow.svg)
+![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents
   - [budget_tracker](#budget_tracker)
